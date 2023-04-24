@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bruno Finger</h1>
-<h3 align="center">A passionate Software Engineer from Brazil</h3>
+# 👋 Hi there, I'm  Bruno
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunofinger&label=Profile%20views&color=0e75b6&style=flat" alt="brunofinger" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **Kubernetes**
-
-- 📫 How to reach me **Finger**
+##  👨🏻‍💻 I'm a Softare Engineer!!
+- 🔭 I'm currently working in Encora as a Software Engineer
+- 🎂 I'm 25 years old 
+- 🎓 I'm finishing my CS degree
+- 🌱 I’m currently studding french to realize my dream to live in Montreal 
+- 👯 I’m looking to collaborate with people who want to learn to code
+- ⚡ Fun fact: I love bitcoin!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
